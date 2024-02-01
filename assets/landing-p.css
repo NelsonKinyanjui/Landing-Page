@@ -8,6 +8,15 @@ h1{
     margin-left: 100px;
     
 }
+a{
+    color: beige;
+    text-decoration: none;
+    
+    
+}
+a :hover {
+    color: azure;
+}
 ul li {
      flex-direction: row;
      display: inline-block;
