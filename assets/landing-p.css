@@ -3,16 +3,18 @@
     border: 2px solid blue;
     
 }
-.header h1 ul {
-    flex-direction: row;
-    border: 2px solid blue;
-    gap: 40px;
-    float: left;
-
+h1{
+    margin-right: 900px;
+    margin-left: 100px;
+    font-size: 50px;
 }
-li{
-    display: inline-block;
-    border: 2px solid blue;
+ul li {
+     flex-direction: row;
+     display: inline-block;
+     margin-left: 180px;
+     font-weight: bold;
     
+    
+
 }
 
