@@ -88,6 +88,25 @@ figure img {
     padding-top: 35px;
     padding-bottom:35px;
     font-size: 25px;
+      
+}
+.footer {
+    display: flex;
+    background-color: #3882F6;
+    color: whitesmoke;
+    justify-content: center;
     
+}
+.footer p {
+    padding-right: 80px;
     
+}
+.cta {
+    font-size: 30px;
+}
+.copy p{
+    background-color: #1F2937;
+    color: whitesmoke;
+    padding: 30px 30px;
+    text-align: center;
 }
