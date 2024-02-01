@@ -4,9 +4,14 @@
     color: white;
 }
 h1{
-    margin-right: 900px;
-    margin-left: 100px;
+    margin-right: 630px;
+    margin-left: 400px;
     
+    
+}
+
+.image {
+    margin-left: 80px;
 }
 a{
     color: beige;
@@ -18,8 +23,9 @@ a{
 ul li {
      flex-direction: row;
      display: inline-block;
-     margin-left: 80px;
+     margin-left: 10px;
      font-weight: bold;
+     padding-left: 10px;
     
     
 
@@ -33,12 +39,25 @@ ul li {
 .description{
     margin-left: 400px;
     margin-right: 80px;
+    
 }
 .name {
     font-size: 48px;
     font-weight: bold;
 }
-.details {
-
+button {
+    color: white;
+    background-color: #3882F6;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    padding: 5px;
+    
+}
+button:hover {
+    cursor: pointer;
+}
+.carousel {
+    display: flex;
 }
 
